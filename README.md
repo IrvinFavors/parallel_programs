@@ -1,4 +1,4 @@
-# parallel_programs
+# Parallel Programs
 
 **Jacobi Method** <br />
 Compile: mpicc mpi_jacobi.c -lm -o jacobi <br />
